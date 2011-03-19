@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/public_activity"]
+	path = vendor/plugins/public_activity
+	url = git://github.com/okonski/public_activity.git
